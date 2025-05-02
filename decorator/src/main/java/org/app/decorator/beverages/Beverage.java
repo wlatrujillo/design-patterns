@@ -1,4 +1,4 @@
-package org.app.decorator;
+package org.app.decorator.beverages;
 
 public abstract class Beverage {
     String description = "";
