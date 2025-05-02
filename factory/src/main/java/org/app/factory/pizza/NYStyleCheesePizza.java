@@ -1,6 +1,6 @@
-package org.app.factory;
+package org.app.factory.pizza;
 
-public class NYStyleCheesePizza extends Pizza{
+public class NYStyleCheesePizza extends Pizza {
 
     public NYStyleCheesePizza(){
         name="NY Style Sauce and Cheese Pizza";

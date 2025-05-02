@@ -1,4 +1,6 @@
-package org.app.factory;
+package org.app.factory.store;
+
+import org.app.factory.pizza.Pizza;
 
 public abstract class PizzaStore {
     public Pizza orderPizza(String type){
